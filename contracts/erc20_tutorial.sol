@@ -3,9 +3,9 @@ pragma solidity ^0.4.24;
 // ----------------------------------------------------------------------------
 // '0Fucks' token contract
 //
-// Deployed to : 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222
-// Symbol      : 0FUCKS
-// Name        : 0 Fucks Token
+// Deployed to : 0x3A533F12fBC1beDe6f35D65D565D5A664D3AddD33662
+// Symbol      : ASM
+// Name        : Autograph Sports Memorabilia Token
 // Total supply: 100000000
 // Decimals    : 18
 //
